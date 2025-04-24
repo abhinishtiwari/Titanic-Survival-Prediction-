@@ -1,7 +1,7 @@
 
 # 🚢 Titanic Survival Prediction - EDA + Model Building
 
-![Titanic](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gifcen.com%2Ftitanic-gif-9%2F&psig=AOvVaw2VnEBAfJ4DXv6g_IkNUrTc&ust=1745578363687000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICU-KbA8IwDFQAAAAAdAAAAABAI)
+![Titanic](https://github.com/abhinishtiwari/Titanic-Survival-Prediction-/blob/e293b6e095c04f063b37064766e4a25c291573af/Titanic.png)
 
 ## Overview
 
